@@ -4,7 +4,6 @@
 	<title>Sign up</title>
 </head>
 <body>
-
 	<h1> Sign up NOW!!</h1>
 	<br>
 	<br>
