@@ -8,7 +8,6 @@
 	<br>
 	<br>
 
-
 	<form action="GET_ROOM_RESERVATION.php" method="POST">
 
 		<lable>Name with initials:</lable> <input type="Text" name="NameI" class="Fcon" required>
